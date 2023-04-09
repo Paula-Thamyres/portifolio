@@ -13,6 +13,6 @@ Projetos: Apresenta alguns projetos desenvolvidos e com link direto para os resp
 
 ## Tecnologias utilizadas:
 
-HTML;
-CSS;
+- HTML;
+- CSS;
 
