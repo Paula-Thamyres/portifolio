@@ -15,4 +15,9 @@ A primeira parte do projeto é composta por duas seções:
 
 - HTML;
 - CSS;
+- Flex-Box
+
+## Feito por:
+
+### Paula Silva
 
