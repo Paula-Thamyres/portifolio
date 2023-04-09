@@ -11,7 +11,7 @@ Quem sou: Nessa seção tenho uma descrição dizendo um pouco sobre quem sou(em
 Experiências: Abordo algumas empresas da qual prestei meus serviços na área de desenvolvimento web entre outros.
 Projetos: Apresenta alguns projetos desenvolvidos e com link direto para os respectivos códigos no GitHub;
 
-##Tecnologias utilizadas:
+## Tecnologias utilizadas:
 
 HTML;
 CSS;
