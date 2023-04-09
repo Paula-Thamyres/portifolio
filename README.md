@@ -11,7 +11,7 @@ A primeira parte do projeto é composta por duas seções:
 - Experiências: Abordo algumas empresas da qual prestei meus serviços na área de desenvolvimento web entre outros.
 - Projetos: Apresenta alguns projetos desenvolvidos e com link direto para os respectivos códigos no GitHub;
 
-## Tecnologias utilizadas:
+__Negrito__ Tecnologias utilizadas:
 
 - HTML;
 - CSS;
